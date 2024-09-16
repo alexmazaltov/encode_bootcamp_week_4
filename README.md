@@ -90,6 +90,21 @@ npm run dev
 
 <img width="75%" alt="Screenshot 2024-09-16 at 05.21.19" src="_images/Screenshot 2024-09-16 at 05.21.19.png">
 
+## Contributors
+This homework has been done by the following members of **GROUP 9**:
+
+* [Luis José Sánchez](https://github.com/LuisJoseSanchez)
+* [Oleksii Bondarenko](https://github.com/alexmazaltov)
+* [Razvan Ionescu](https://github.com/ionescu77)
+* [Amr Fayez](https://github.com/amrfayez)
+* [Akash Pathak](https://github.com/akkikumar72)
+* [Ahmed Yassin](https://github.com/AYassin01)
+* [Maria Kachalova](https://github.com/MaryFox)
+...
+
+---
+original notes:
+---
 
 ## Deployment
 
